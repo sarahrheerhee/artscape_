@@ -960,6 +960,14 @@ cursor: default;
 
 
 
+@media screen and (max-width: 600px) {
+  #cover{
+	 opacity:1;
+	
+
+}
+	}
+
 
 
 
